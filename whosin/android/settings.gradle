@@ -1,0 +1,3 @@
+rootProject.name = 'whosin'
+
+include ':app'
